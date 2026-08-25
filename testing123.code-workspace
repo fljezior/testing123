@@ -14,6 +14,7 @@
 		}
 	]
 }
+*hello*
 # Homebrew (recommended)
 brew install lazygit
 
