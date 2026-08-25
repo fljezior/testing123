@@ -14,3 +14,8 @@
 		}
 	]
 }
+# Homebrew (recommended)
+brew install lazygit
+
+# MacPorts
+sudo port install lazygit
